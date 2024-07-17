@@ -7,7 +7,6 @@ published-at = "0x66aa3335901ce7e04b85ed6597ee42d4b479f7110bf98e8ebd474fa32a0027
 git = "https://github.com/MystenLabs/sui.git"
 subdir = "crates/sui-framework/packages/sui-framework"
 rev = "mainnet"
-override = true
 
 [dependencies.math]
 local = "../math"
